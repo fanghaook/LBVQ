@@ -1,4 +1,4 @@
-# Learning Better Video Query with SAM for Video Instance Segmentation
+# Learning Better Video Query with SAM for Video Instance Segmentation (TCSVT 2023)
 
 [Hao Fang](https://fanghaook.github.io), Tong Zhang, [Xiaofei Zhou](https://scholar.google.cz/citations?user=2PUAFW8AAAAJ), [Xinxin Zhang](https://scholar.google.cz/citations?user=rPv44PoAAAAJ)
 
@@ -86,7 +86,13 @@ However portions of the project are available under separate license terms: Dete
 If you use LBVQ in your research or wish to refer to the baseline results published in the Model Zoo, please use the following BibTeX entry.
 
 ```BibTeX
-
+@article{Fang2024learning,
+  title={Learning Better Video Query with SAM for Video Instance Segmentation},
+  author={Fang, Hao and Zhang, Tong and Zhou, Xiaofei and Zhang, Xinxin},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology},
+  year={2024},
+  publisher={IEEE}
+}
 ```
 
 ## Acknowledgement
