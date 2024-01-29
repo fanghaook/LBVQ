@@ -1,4 +1,4 @@
-# Learning Better Video Query with SAM for Video Instance Segmentation (TCSVT 2023)
+# Learning Better Video Query with SAM for Video Instance Segmentation (TCSVT 2024)
 
 [Hao Fang](https://fanghaook.github.io), Tong Zhang, [Xiaofei Zhou](https://scholar.google.cz/citations?user=2PUAFW8AAAAJ), [Xinxin Zhang](https://scholar.google.cz/citations?user=rPv44PoAAAAJ)
 
