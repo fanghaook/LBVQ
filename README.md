@@ -2,7 +2,7 @@
 
 [Hao Fang](https://fanghaook.github.io), Tong Zhang, [Xiaofei Zhou](https://scholar.google.cz/citations?user=2PUAFW8AAAAJ), [Xinxin Zhang](https://scholar.google.cz/citations?user=rPv44PoAAAAJ)
 
-[[`paper`]()] [[`BibTeX`](#CitingLBVQ)]
+[[`paper`](https://ieeexplore.ieee.org/abstract/document/10418101)] [[`BibTeX`](#CitingLBVQ)]
 
 <div align="center">
   <img src="LBVQ.png" width="100%" height="100%"/>
